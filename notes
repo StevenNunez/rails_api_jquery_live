@@ -1,0 +1,4 @@
+Failure
+  Show an error
+  Controller has to send this error, and a message
+  on the jQuery side, figure out how 
